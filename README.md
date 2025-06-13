@@ -9,7 +9,7 @@
 
 
 
-## References:
+### References:
 
 [Beginner’s guide to Extract Receipt’s Information using Deep Learning (OCR & NLP Model)
 ](https://medium.com/mynextdeveloper/information-extraction-receipt-ocr-scan-deep-learning-1e68ce5a9ae7)
